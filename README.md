@@ -7,8 +7,8 @@
 2) при работе в Datalense -> решение: подключить Clickhouse
 
 Для начала был открыт датасет и на основе его колонок были выдвинуты предположения о том, на что можно посмотреть в данных. 
-![image](https://github.com/user-attachments/assets/546820f5-4893-499a-958c-6b4fba0a96b4)
-![image](https://github.com/user-attachments/assets/6010f334-0ccc-4161-bab7-5ce4ff550a07)
+![image](https://github.com/user-attachments/assets/7bcaacc8-f044-464b-b447-c57aff90bd61)
+
 
 
 С помощью библиотек визуализации в python [файл EDA.ipynb](https://github.com/zpankova/Business_telemetry/blob/main/EDA.ipynb), построим графики для поиска зависимостей/ сезонности/ аномалий
