@@ -110,7 +110,7 @@
 ![image](https://github.com/user-attachments/assets/6b949a4b-edbb-493a-a395-69f2ded0a83d)
 
 ### Итог
-[Дашборд:](https://datalens.yandex.cloud/sd2yfrnb5462f)
+[Дашборд:](https://datalens.yandex/sd2yfrnb5462f)
 
 [Презентация:](https://disk.yandex.ru/i/ceXGbnEGR_2r3g)
 
